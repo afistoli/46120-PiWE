@@ -1,8 +1,8 @@
 # 46120: Scientific Programming for Wind Energy
 
-Moderen engineering (and science) requires foundational skills in the design, creation, critical analysis
-and communication of code. This course gives necessary skills in collaborative code design and development
-to MSc students working in wind energy.
+Moderen engineering (and science) requires foundational skills in the collaborative design,
+creation, critical analysis and communication of code. This course gives necessary skills in
+these areas to MSc students working in wind energy.
 
 ## Course information
 
@@ -12,27 +12,14 @@ SPP 2025 dates, times and locations:
  * Tuesdays, **9:00(!!)** to 12:00
  * Lyngby location: to be added
  * Risø location: to be added
- * Zoom location: to be added
+ * Zoom location: see link on Learn page
 
 The course is hybrid, meaning that you can attend from Lyngby, Risø, or online as you choose.
 
-To pass this course, you must pass the CodeCamp final project and the final project.  
- * Guidelines for are in Week X and Week X folders, respectively.
+To pass this course, you must pass the CodeCamp final project and the final project. Guidelines
+will be uploaded soon.
 
-## Sign-ups for groups
-
- * Groups for CodeCamp : link to be added 
- * Groups for final project: link to be added
-
-## Lecture recordings
-
- * Link to be added.
-
-## Steps to clone this repository
-
-Please see detailed instructions in the README file in the `week0_prep` folder.
-
-## Tentative course schedule
+### Tentative course schedule
 
 | Week    | Lecture | Topic                                                | Due this week                      |
 |---------|---------|------------------------------------------------------|------------------------------------|
@@ -50,3 +37,13 @@ Please see detailed instructions in the README file in the `week0_prep` folder.
 | Week 11 | 22-apr  | Python on Gbar (HPC)                                 |                                    |
 | Week 12 | 29-apr  | Test-driven development                              | Package should be complete         |
 | Week 13 | 06-may  | Final-project presentations                          | Final project (pass fail)          |
+
+## Lecture recordings
+
+ * Link to be added.
+
+
+## Sign-ups for groups
+
+ * Groups for CodeCamp : link to be added 
+ * Groups for final project: link to be added
