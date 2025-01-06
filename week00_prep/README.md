@@ -1,7 +1,7 @@
 # SPP Week 0: Pre-course preparation
 
 SPP is a student-driven course, so most of your time learning is outside the classroom. This includes
-preparation, which is essential. Take assigned preparation seriously so you aren’t lost during lecture.
+preparation, which is essential. Take assigned preparation seriously so you aren't lost during lecture.
 
 The final Python exercises are designed to give you a foundation in the basics of Python. We assign
 this as preparation instead of teaching it explicitly because (1) many students often already know
@@ -22,6 +22,12 @@ You are ready for Week 1 of PiWE when you have:
 5.	Forked and cloned this repository.  
 6. Completed the Python exercises (potentially including extra prep).  
 
+## Working in pairs
+
+Steps 1 through 5 need to be completed on your individual laptop/computer. For the Python exercises (Step 6),
+you are welcome--nay, encouraged!--to work in pairs. Engineering is collaborative problem solving. When
+you have finished `week00_prep_answers.py`, add a comment to the top with your names and make sure you
+both have a copy locally before coming to class in Week 1.
 
 ## 1. Install/verify VS Code and Python
 
