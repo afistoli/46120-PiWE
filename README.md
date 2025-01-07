@@ -8,6 +8,8 @@ these areas to MSc students working in wind energy.
 
 Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
 
+### Where/when
+
 SPP 2025 dates, times and locations:
  * Thursdays, **9:00(!!)** to 12:00
  * Lyngby location: to be added
@@ -15,9 +17,6 @@ SPP 2025 dates, times and locations:
  * Zoom location: see link on Learn page
 
 The course is hybrid, meaning that you can attend from Lyngby, Risø, or online as you choose.
-
-To pass this course, you must pass the CodeCamp final project and the final project. Guidelines
-will be uploaded soon.
 
 ### Tentative course schedule
 
@@ -36,7 +35,18 @@ will be uploaded soon.
 |  EASTER | 17-apr  | --                                                   |                                    |
 | Week 11 | 24-apr  | Python on Gbar (HPC)                                 |                                    |
 | Week 12 | 01-may  | Test-driven development                              | Package should be complete         |
-| Week 13 | 08-may  | Final-project presentations                          | Final project (pass fail)          |
+| Week 13 | 08-may  | Quiz, final-project presentations                          | Final project (pass fail)          |
+
+### Hand-ins and grading
+
+There are two programming projects you will "hand in" as GitHub repositories: the CodeCamp project and
+the final project. Both programming projects should be completed in small groups (2 to 3 people).
+Exceptions to work alone may be granted on request. You must pass both projects to pass the course.
+More details on the projects and requirements for passing will be pushed in the coming weeks.
+
+In addition to the programming projects, there is a small written quiz in Week 13. Your final
+individual grade (pass/fail) will be determined as a cumulative evaluation of your contributions to
+the final programming project and the individual written quiz.
 
 ## Lecture recordings
 
