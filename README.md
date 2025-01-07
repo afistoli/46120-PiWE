@@ -23,20 +23,20 @@ will be uploaded soon.
 
 | Week    | Lecture | Topic                                                | Due this week                      |
 |---------|---------|------------------------------------------------------|------------------------------------|
-| Week 1  | 04-feb  | Introduction, Git/GitLab                             |                                    |
-| Week 2  | 11-feb  | CodeCamp I: Loading and plotting, PSD, eigenanalysis | Sign up for CodeCamp project group |
-| Week 3  | 18-feb  | CodeCamp II: simulate_turbie()                       |                                    |
-| Week 4  | 25-feb  | Diagrams and CodeCamp final project details          |                                    |
-| Week 5  | 04-mar  | CodeCamp final project presentations                 | CodeCamp final project (pass/fail) |
-| Week 6  | 11-mar  | Packaging and environments                           |                                    |
-| Week 7  | 18-mar  | Final project introduction                           | Sign up for final project group    |
-| Week 8  | 25-mar  | Classes, inheritence and OOP                         |                                    |
-| Week 9  | 01-apr  | Computational thinking and design of architecture    |                                    |
-| Week 10 | 08-apr  | PEP8 / PEP257 and linters                            |                                    |
-|  EASTER | 15-apr  | --                                                   |                                    |
-| Week 11 | 22-apr  | Python on Gbar (HPC)                                 |                                    |
-| Week 12 | 29-apr  | Test-driven development                              | Package should be complete         |
-| Week 13 | 06-may  | Final-project presentations                          | Final project (pass fail)          |
+| Week 1  | 06-feb  | Introduction, Git/GitLab                             |                                    |
+| Week 2  | 13-feb  | CodeCamp I: Loading and plotting, PSD, eigenanalysis | Sign up for CodeCamp project group |
+| Week 3  | 20-feb  | CodeCamp II: simulate_turbie()                       |                                    |
+| Week 4  | 27-feb  | Diagrams and CodeCamp final project details          |                                    |
+| Week 5  | 06-mar  | CodeCamp final project presentations                 | CodeCamp final project (pass/fail) |
+| Week 6  | 13-mar  | Packaging and environments                           |                                    |
+| Week 7  | 20-mar  | Final project introduction                           | Sign up for final project group    |
+| Week 8  | 27-mar  | Classes, inheritence and OOP                         |                                    |
+| Week 9  | 03-apr  | Computational thinking and design of architecture    |                                    |
+| Week 10 | 10-apr  | PEP8 / PEP257 and linters                            |                                    |
+|  EASTER | 17-apr  | --                                                   |                                    |
+| Week 11 | 24-apr  | Python on Gbar (HPC)                                 |                                    |
+| Week 12 | 01-may  | Test-driven development                              | Package should be complete         |
+| Week 13 | 08-may  | Final-project presentations                          | Final project (pass fail)          |
 
 ## Lecture recordings
 
