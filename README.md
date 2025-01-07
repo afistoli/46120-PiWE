@@ -9,7 +9,7 @@ these areas to MSc students working in wind energy.
 Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
 
 SPP 2025 dates, times and locations:
- * Tuesdays, **9:00(!!)** to 12:00
+ * Thursdays, **9:00(!!)** to 12:00
  * Lyngby location: to be added
  * Risø location: to be added
  * Zoom location: see link on Learn page
