@@ -13,7 +13,7 @@ Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
 SPP 2025 dates, times and locations:
  * Thursdays, **9:00(!!)** to 12:00
  * Physical location: Lyngby 308/A011
- * Virtual location: zoom link on Learn page
+ * Virtual location: Zoom link on Learn page
 
 The course is hybrid, meaning that you can attend physically or online as you choose.
 
