@@ -23,7 +23,9 @@ You are done at the end of Part 3, when all tests pass.
 2. ONE person from your group:  
    * Under Learn / Content / Administration, click the link for the GitHub Assignment for Weeks 1 and 2.  
    * When prompted, create a new team. Call your team "Team X", where "X" is replaced with your Team number (e.g, "Team 42").  
+   * If you are asked to link your GitHub account to a "student identifier", the identifier should be your student ID or DTU username.  
 3. Other group members should now click the same link on Learn for the GitHub assignment BUT join the existing team, "Team X".  
+   * If you are asked to link your GitHub account to a "student identifier", the identifier should be your student ID or DTU username.  
 4. Each team member should navigate to your team's repository on GitHub and clone it locally to your computer.  
 5. Discuss with your team:  
    * Who should answer which questions in "Git questions", which is part of Part 3.  
