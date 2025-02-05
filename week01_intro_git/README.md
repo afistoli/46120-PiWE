@@ -26,7 +26,7 @@ You are done at the end of Part 3, when all tests pass.
    * If you are asked to link your GitHub account to a "student identifier", the identifier should be your student ID or DTU username.  
 3. Other group members should now click the same link on Learn for the GitHub assignment BUT join the existing team, "Team X".  
    * If you are asked to link your GitHub account to a "student identifier", the identifier should be your student ID or DTU username.  
-4. Each team member should navigate to your team's repository on GitHub and clone it locally to your computer.  
+4. Everyone clones the new team repo locally to their computer.  
 5. Discuss with your team:  
    * Who should answer which questions in "Git questions", which is part of Part 3.  
    * If you will complete Part 2 together or individually.  
@@ -35,15 +35,17 @@ You are done at the end of Part 3, when all tests pass.
 
 ### PART 2: Individually or with your team
 
-Each person should complete the following steps individually. You can do the steps with a buddy or your P0 team if you like, but each person must push a branch with their code.
+Each person should complete the following steps. We recommend working with a buddy or your P0
+team, but each person must push a branch with their code.
 
-1. If you are not very familiar with git/GitHub, watch the five git/GitHub introduction videos [here on Panopto](https://panopto.dtu.dk/Panopto/Pages/Sessions/List.aspx?folderID=de5b944f-9e31-4b2d-8477-b27a00f792db):  
-2. Run the week1 test, which should FAIL for now:  
-    * Open Anaconda prompt.
+1. Run the week1 test, which should FAIL for now:  
+    * Open Anaconda prompt.  
+    * Install `pytest`: `pip install pytest`
     * Change directory to your team repo.  
     * Run pytest on the week1 test: `pytest test_week1.py`.  
     * There should be some white and red text and notes about failures, like this:  
-<img src="screenshot_fail.png" alt="Failing test" width="550" height="60">
+      <img src="screenshot_fail.png" alt="Failing test" width="550" height="60">  
+2. If you are not familiar with using git/GitHub, watch the five git/GitHub introduction videos [here on Panopto](https://panopto.dtu.dk/Panopto/Pages/Sessions/List.aspx?folderID=de5b944f-9e31-4b2d-8477-b27a00f792db).  
 3. Create a new branch in your group repository, named after you. (Related links in "Videos and tutorials" below.)  
 4. Create a folder called `preclass_assignment` in the top level of the repo. In this folder, place your solution to the preparatory Python exercises you completed before Week 1.
 5. Add/commit your code to the branch.
